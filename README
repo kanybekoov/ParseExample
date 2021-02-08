@@ -1,0 +1,8 @@
+Parse Example app:
+Android app is written Java which takes ready data from https://jsonplaceholder.typicode.com/ through API and by parsing shows data in RecyclerView.
+Each item we can select and it shows on another activity with description.
+
+Technical component:
+RecyclerView
+Fragment
+Retrofit
